@@ -28,7 +28,7 @@ Each cheat sheet is designed to provide quick and useful reference material. Cli
 
 Have a useful cheat sheet to add? Feel free to submit a pull request!  
 
-## 📜 License  
+## License  
 
 This project is licensed under [MIT License](LICENSE).  
 
